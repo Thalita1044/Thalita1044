@@ -1,4 +1,6 @@
-## Oiii! eu sou a Thalita Machado, estudante de programação e tecnologia!
+## Oiii! eu sou a Thalita Machado, estudante de Front End e Desing UX/UI!  ![Vector](https://user-images.githubusercontent.com/61170238/166963950-48671b5d-318e-4878-809e-88ac3cac9409.svg)
+
+
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Thalita1044&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
