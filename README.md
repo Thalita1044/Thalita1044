@@ -1,4 +1,4 @@
-## Oiii! eu sou a Thalita Machado, estudante de Front End e Desing UX/UI!  ![Vector](https://user-images.githubusercontent.com/61170238/166963950-48671b5d-318e-4878-809e-88ac3cac9409.svg)
+## Oiii! eu sou a Thalita Machado, estudante de Front End e Desing UX/UI ![Vector](https://user-images.githubusercontent.com/61170238/166963950-48671b5d-318e-4878-809e-88ac3cac9409.svg)
 
 
 
